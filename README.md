@@ -31,7 +31,7 @@ intensity, manually controlling of the nobe, setting timer and
 to start the fire with just a button tap in the smart-phone.
   
 ## Demo Video Link:
-  <a href="Smart-Stove-Youtube-Video"> </a>
+  <a href="Smart-Stove-Youtube-Video">https://youtu.be/nV0-C-VNL88 </a>
   
 ## Table of Contents:
 
