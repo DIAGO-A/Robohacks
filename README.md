@@ -5,7 +5,7 @@
 > The stove that is smart enough to take neccesary action when required and listen to its user remotely.
 <hr>
 
-<a href=""> <img src="" height=80px> </a>
+<a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Mlh-logo-color.svg" height=80px> </a>
 
 
 ## Introduction:
@@ -61,4 +61,4 @@ ways:
 
 
 ### Made at:
-<a href=""> <img src="" height=80px> </a>
+<a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Mlh-logo-color.svg" height=80px> </a>
